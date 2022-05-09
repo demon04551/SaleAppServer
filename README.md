@@ -1,5 +1,5 @@
 # SaleAppServer
-可一键部署的商品销售APP
+可一键部署的商品销售APP，服务器使用dotnet core 3.1
 
 集合了众多功能
 *商品上传
@@ -13,11 +13,16 @@
 *提现功能
 
 demo地址
+
 安卓下载
+
 ![8bf433aa2e56155e763aeaf95477e42](https://user-images.githubusercontent.com/7734782/167329844-48e13fbe-34c7-421b-b0ad-fda75128342d.png)
+
 ios下载
+
 ![0215ad7a7910912ed842ef64aad31ac](https://user-images.githubusercontent.com/7734782/167329927-78605bb3-4ebc-42f7-91da-a3d355af9ed6.jpg)
 
+预览
 
 ![微信图片_20220509101358](https://user-images.githubusercontent.com/7734782/167329360-897dd811-9649-4cb0-acc7-380ab526f817.jpg)
 ![微信图片_20220509101409](https://user-images.githubusercontent.com/7734782/167329365-c4596a6e-3974-4c5a-959e-0a60a0f0b8c9.jpg)
