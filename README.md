@@ -1,7 +1,7 @@
 # SaleAppServer
 可一键部署的商品销售APP，服务器使用dotnet core 3.1
 
-集合了众多功能
+集合了众多功能：
 
 *商品上传
 
@@ -19,7 +19,18 @@
 
 *收藏订阅
 
-*提现功能
+*提现功能 <br>
+
+部署方法：
+
+#!/bin/bash <br>
+cd ../publish <br>
+echo "Pulling from repository..." <br>
+sudo sudo git pull <br>
+sudo docker stop $(sudo docker ps -aq)&&sudo docker rm $(sudo docker ps -aq)&&sudo docker images <br>
+sudo docker image rm publish_web <br>
+sudo docker-compose up -d <br>
+
 
 demo地址
 
