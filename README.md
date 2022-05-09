@@ -26,6 +26,7 @@ demo地址
 安卓下载
 
 ![8bf433aa2e56155e763aeaf95477e42](https://user-images.githubusercontent.com/7734782/167329844-48e13fbe-34c7-421b-b0ad-fda75128342d.png)
+<img src="https://user-images.githubusercontent.com/7734782/167329844-48e13fbe-34c7-421b-b0ad-fda75128342d.png" width="200" />
 
 ios下载
 
