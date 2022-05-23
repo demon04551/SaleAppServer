@@ -44,8 +44,8 @@ ios下载
 
 APP预览
 
-<img src="https://user-images.githubusercontent.com/7734782/167329360-897dd811-9649-4cb0-acc7-380ab526f817.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/7734782/167329365-c4596a6e-3974-4c5a-959e-0a60a0f0b8c9.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/7734782/167329360-897dd811-9649-4cb0-acc7-380ab526f817.jpg" width="200" /><img src="https://user-images.githubusercontent.com/7734782/167329365-c4596a6e-3974-4c5a-959e-0a60a0f0b8c9.jpg" width="200" />
+
 <img src="https://user-images.githubusercontent.com/7734782/167329385-1bc2e2a4-0b45-4bee-838d-a54a2815505c.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/7734782/167329391-f5c4b9e0-41ae-42a1-aeae-54442cc07bf4.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/7734782/167329394-ed4837bb-803a-401d-934e-ad541f016858.jpg" width="200" />
