@@ -34,13 +34,10 @@ sudo docker-compose up -d <br>
 
 demo地址
 
-安卓下载
+下载地址
 
-<img src="https://user-images.githubusercontent.com/7734782/167329844-48e13fbe-34c7-421b-b0ad-fda75128342d.png" width="200" />
+![qr](https://user-images.githubusercontent.com/7734782/169757139-018fcede-fafe-4a09-920c-8213a52f9345.png)
 
-ios下载
-
-<img src="https://user-images.githubusercontent.com/7734782/167329927-78605bb3-4ebc-42f7-91da-a3d355af9ed6.jpg" width="200" />
 
 APP预览
 
