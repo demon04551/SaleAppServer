@@ -35,8 +35,8 @@ sudo docker-compose up -d <br>
 demo地址
 
 下载地址
+![image](https://user-images.githubusercontent.com/7734782/173471854-2618b9be-cfdd-4aab-8335-472975bd07f9.png)
 
-![qr](https://user-images.githubusercontent.com/7734782/169757139-018fcede-fafe-4a09-920c-8213a52f9345.png)
 
 
 APP预览
